@@ -47,7 +47,7 @@ def home():
         </head>
         <body style="font-family:Arial;text-align:center;margin-top:50px;">
             <h1>🎮 Four Friends Number Game API</h1>
-            <p>Go to <a href="/play">/play</a> to play the game.</p>
+            <p>Go to <a href="/docs">/docs</a> to play the game.</p>
         </body>
     </html>
     """
